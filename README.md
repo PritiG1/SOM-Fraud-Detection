@@ -26,7 +26,7 @@ I acknowledge the Udemy course "Machine Learning A-Z™: Hands-On Python & R In 
 ## Medium Article
 For a detailed explanation of the code and the analysis, refer to my Medium article titled "Detecting credit fraud using SOMs." The article provides insights into the implementation of the SOM model, its application for identifying potential fraud applications, and the significance of the results.
 
-[Link to Medium Article](https://medium.com/your-article-link)
+[Link to Medium Article](https://medium.com/@pritigupta.ds/detecting-credit-fraud-with-soms-eddb89d39634)
 
 Feel free to reach out for any queries or feedback regarding this project. Happy learning and exploring!
 
